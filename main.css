@@ -1,0 +1,20 @@
+img{
+    float: right;
+    width: 200px;
+    height: 250px;
+    margin-bottom: 15px;
+  }
+  .comment {
+    border: 1px solid #ba2f2f;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .biru{
+    background-color: greenyellow;
+  }
+  h1 {
+    background-color: yellow;
+  }
+  a {
+    background-color: yellow;
+  }
