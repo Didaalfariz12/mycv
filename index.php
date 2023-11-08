@@ -18,7 +18,7 @@ $data = mysqli_fetch_array($result);
    
 }
 </style>
-  <title>curiculum</title>
+  <title>curriculum vitae</title>
 </head>
 
 <body class="p-3">
